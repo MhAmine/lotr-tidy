@@ -190,7 +190,7 @@ In the [optional bonus content](04-tidy-bonus-content.md), I show how to tidy th
 
 -   [Tidy data](http://r4ds.had.co.nz/tidy-data.html) chapter in R for Data Science, by Garrett Grolemund and Hadley Wickham
     -   [tidyr](https://github.com/hadley/tidyr) R package
-    -   The tidyverse meta-package, within which `tidyr` lives: [tidyverse](https://github.com/hadley/tidyversee).
+    -   The tidyverse meta-package, within which `tidyr` lives: [tidyverse](https://github.com/hadley/tidyverse).
 -   [Bad Data Handbook](http://shop.oreilly.com/product/0636920024422.do) by By Q. Ethan McCallum, published by O'Reilly.
     -   Chapter 3: Data Intended for Human Consumption, Not Machine Consumption by Paul Murrell.
 -   Nine simple ways to make it easier to (re)use your data by EP White, E Baldridge, ZT Brym, KJ Locey, DJ McGlinn, SR Supp. *Ideas in Ecology and Evolution* 6(2): 1–10, 2013. <doi:10.4033/iee.2013.6b.6.f> <http://library.queensu.ca/ojs/index.php/IEE/article/view/4608>
